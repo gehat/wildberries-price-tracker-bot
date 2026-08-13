@@ -1,0 +1,2 @@
+from pay_and_scrapping import payments
+from pay_and_scrapping import wb
